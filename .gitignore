@@ -1,0 +1,12 @@
+#dependencies
+node_modules
+
+#da tabase
+db/*.db
+
+#envairoment
+.env
+.env.test
+
+# Build
+build
